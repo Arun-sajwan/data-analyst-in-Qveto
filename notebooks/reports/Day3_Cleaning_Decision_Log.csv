@@ -1,0 +1,5 @@
+Issue,Decision,Reason,Action_taken,Approved_by
+Missing Product Description,Pending team approval,Column is entirely missing,None,
+Repeated Order Id,Retain repeated IDs,One order may contain multiple item rows,No rows deleted,
+Negative profit values,Retain pending investigation,Negative profit may represent a genuine loss,No values changed,
+Shipping duration mismatch,Pending definition confirmation,Timestamp difference may use a different calculation,Flag for review,
